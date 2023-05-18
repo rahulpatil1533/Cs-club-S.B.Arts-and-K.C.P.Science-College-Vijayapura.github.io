@@ -4,7 +4,10 @@ body {
     color: aqua;
     width: auto;
   }
-  
+  h1{
+      border:none;
+      border-bottom:none;
+}
   /* Style the header */
   .header {
     /* background-color:black; */
@@ -86,7 +89,7 @@ body {
     background-color: #050801; /* Green background */
     border: 1px solid aqua; /* Green border */
 
-    padding: 12px 18px; /* Some padding */
+    padding: 10px 30px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
 
     display: block; /* Make the buttons appear below each other */
