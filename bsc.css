@@ -1,0 +1,67 @@
+body{
+    background-color: black;
+    color: aqua;
+}
+.bgroup1 button{
+    text-align: left;
+    border:2px solid black;
+    background-color: transparent;
+    color: lime;
+    padding:10px 24px;
+    cursor: pointer;
+    width: 9%;
+    display: inline-block;
+    font-size: 16px;
+
+}
+
+.bgroup button{
+    text-align: left;
+    background-color: transparent;
+    border: 2px solid aqua;
+    font-family: serif;
+    
+    color: whitesmoke;
+    padding:10px 24px;
+    cursor: pointer;
+    width: 9%;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.bgroup button:not(:last-child){
+    /* border-bottom: none; */
+}
+.bgroup button:hover{
+    background-color:lime;
+    color:black; 
+}
+.bgroup button:active
+{
+    background-color:gold;
+}
+.b2group button{
+    text-align: left;
+    background-color: transparent;
+    border: 2px solid green;
+    font-family: serif;
+    
+    color: whitesmoke;
+    padding:10px 24px;
+    cursor: pointer;
+    width: 9%;
+    display: inline-block;
+    font-size: 16px;
+
+}
+.b2group button:not(:last-child){
+    /* border-bottom: none; */
+}
+.b2group button:hover{
+    background-color:lime;
+    color:black; 
+}
+.b2group button:active
+{
+    background-color:gold;
+}
