@@ -48,7 +48,7 @@ body {
   
   /* Left and right column */
   .column.side {
-    width: 15%;
+    width: 25%;
     font-size: 8px;
     /* color:deepskyblue; */
   }
