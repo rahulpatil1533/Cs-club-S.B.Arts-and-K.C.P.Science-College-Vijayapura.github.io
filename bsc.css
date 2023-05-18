@@ -53,7 +53,7 @@ body{
     cursor: pointer;
     width: 24%;
     display: inline-block;
-    font-size: 8x;
+    font-size: 6px;
 
 }
 .b2group button:not(:last-child){
@@ -64,6 +64,32 @@ body{
     color: orange; 
 }
 .b2group button:active
+{
+    background-color:gold;
+}
+/*  mathematics*/
+.bmgroup button{
+    text-align: start;
+    background-color: transparent;
+    border: 2px solid aqua;
+    font-family: serif;
+    
+    color: white;
+    padding:15px 24px;
+    cursor: pointer;
+    width: 24%;
+    display: inline-block;
+    font-size: 6px;
+
+}
+.bmgroup button:not(:last-child){
+    /* border-bottom: none; */
+}
+.bmgroup button:hover{
+    background-color:lime;
+    color:black; 
+}
+.bgroup button:active
 {
     background-color:gold;
 }
