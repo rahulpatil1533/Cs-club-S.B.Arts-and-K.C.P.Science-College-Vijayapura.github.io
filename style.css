@@ -48,7 +48,7 @@ body {
   
   /* Left and right column */
   .column.side {
-    width: 25%;
+    width: 30%;
     font-size: 8px 30px;
     /* color:deepskyblue; */
   }
@@ -80,7 +80,7 @@ body {
   }
   .btn-group button {
   
-    width: 50%;
+    width: 35%;
     font-weight: bold;
     color:aquamarine;
     font-size: 14px;
@@ -89,7 +89,7 @@ body {
     background-color: #050801; /* Green background */
     border: 2px solid aqua; /* Green border */
 
-    padding: 5px 30px; /* Some padding */
+    padding: 10px 30px; /* Some padding */
     cursor: pointer; /* Pointer/hand icon */
 
     display: block; /* Make the buttons appear below each other */
