@@ -3,6 +3,7 @@ body {
     background-color: black;
     color: aqua;
     width: auto;
+    text-decoration:none;
   }
   h1{
       border:2px solid black;
