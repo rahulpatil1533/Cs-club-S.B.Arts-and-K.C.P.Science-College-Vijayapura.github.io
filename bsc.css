@@ -12,8 +12,8 @@ body{
     color: lime;
     padding:15px 24px;
     cursor: pointer;
-/*     width: 24%; */
-    width:auto;
+    width: 24%;
+        text-decoration:none; 
     display: inline-block;
     font-size: 10px;
 
@@ -28,8 +28,8 @@ body{
     color: white;
     padding:15px 24px;
     cursor: pointer;
-/*     width: 24%; */
-    width:auto;
+    width: 24%;
+        text-decoration:none; 
     display: inline-block;
     font-size: 8px;
 
@@ -54,8 +54,8 @@ body{
     color: whitesmoke;
     padding:15px 24px;
     cursor: pointer;
-/*     width: 24%; */
-    width:auto;
+    width: 24%;
+        text-decoration:none; 
     display: inline-block;
     font-size: 6px;
 
