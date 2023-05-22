@@ -3,6 +3,7 @@ body{
     color: aqua;}
     h1{
     text-align: center;
+    text-decoration:none;    
 }
 .bgroup1 button{
     text-align: start;
