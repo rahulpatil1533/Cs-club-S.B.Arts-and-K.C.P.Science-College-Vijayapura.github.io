@@ -73,7 +73,7 @@ body{
 }
 /*  mathematics*/
 .bmgroup button{
-    text-align: start;
+    text-align:center;
     background-color: transparent;
     border: 2px solid aqua;
     font-family: serif;
